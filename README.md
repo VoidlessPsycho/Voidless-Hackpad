@@ -12,7 +12,7 @@ Case:\
 <img width="618" height="579" alt="Case" src="https://github.com/user-attachments/assets/2fc5c51f-0e92-4e1d-bc5b-2624d41bffb0" />
 
 BOM:\
-[Hackpad BOM - Sheet1 (2).csv](https://github.com/user-attachments/files/23693052/Hackpad.BOM.-.Sheet1.2.csv)
+[Hackpad BOM - Sheet1 (2).csv](https://github.com/user-attachments/files/23693052/Hackpad.BOM.-.Sheet1.2.csv) \
 [UpItem,Description,Link,Unit Price,Amount,Total
 Seeed Studio XIAO RP2040,MCU,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html,$3.99,1,$3.99
 1N4148 Signal Diodes,Diode,https://www.aliexpress.us/item/3256806058794623.html,$1.17,1,$1.17
